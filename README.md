@@ -5,9 +5,9 @@
 
 <div style="display: flex;">
     <div style="width: 50%;">
-<!--         <img src="https://github-readme-streak-stats.herokuapp.com?user=engineer237&theme=gotham" /> -->
+<!--         <img src="https://github-readme-streak-stats.herokuapp.com?user=crispus-nj&theme=gotham" /> -->
     </div>
     <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=engineer237&theme=gotham&custom_title=Crispus%20github%20stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=crispus-nj&theme=gotham&custom_title=Crispus%20github%20stats" />
     </div>
 </div>
