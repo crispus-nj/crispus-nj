@@ -10,7 +10,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=crispus-nj&theme=gotham&custom_title=Crispus%20github%20stats" />
     </div>
 </div>
-
+<--
 ---
 
 ## My wakatime Stats
@@ -20,3 +20,4 @@
 </a>
 
 ![Crispus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=crispusnjenga&theme=gotham&layout=compact)
+-->
