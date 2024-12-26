@@ -1,5 +1,3 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/engineer250?style=social) | ![GitHub followers](https://img.shields.io/github/followers/crispus-nj?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
-
 ## My Github Stats
 
 <div style="display: flex;">
