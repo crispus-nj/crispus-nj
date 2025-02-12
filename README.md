@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Crispus Njenga 😃
 
-
-[Linkedin](https://www.linkedin.com/in/crispusnjenga-88102315a/) |
+[Linkedin](https://www.linkedin.com/in/crispus-njenga-88102315a/) |
 [Website](https://crispusnjenga.com/)
 
 <!-- | [Twitter](https://twitter.com/_wilsonkinyua) | -->
