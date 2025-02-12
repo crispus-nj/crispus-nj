@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Crispus Njenga 😃
 
-[Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
-[Website](crispusnjenga.com) |
-<!-- [Twitter](https://twitter.com/_wilsonkinyua) | -->
+
+[Linkedin](https://www.linkedin.com/in/crispusnjenga-88102315a/) |
+[Website](https://crispusnjenga.com/)
+
+<!-- | [Twitter](https://twitter.com/_wilsonkinyua) | -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonkinyua&label=Profile%20views&color=0e75b6&style=flat" alt="wilson" /> </p> -->
 
 <!-- --- -->
